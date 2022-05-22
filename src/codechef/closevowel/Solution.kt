@@ -31,3 +31,8 @@ fun twoKiPowerModulo(power: Int): Int {
     }
     return ans
 }
+
+
+fun List<Int>.maxOf(selector: (Int) -> Unit){
+
+}
